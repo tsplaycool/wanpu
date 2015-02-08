@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.activity;
+package com.android.tans.recorder.activity;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -23,11 +23,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import cn.edu.bjtu.group1024.recorder.R;
-import cn.edu.bjtu.group1024.recorder.baidu.IRecorderConstant;
-import cn.edu.bjtu.group1024.recorder.service.AudioRecorder;
-import cn.edu.bjtu.group1024.recorder.service.AudioRecorder.MessageProto;
-import cn.edu.bjtu.group1024.recorder.utils.PreferenceUtils;
+import com.android.tans.recorder.R;
+import com.android.tans.recorder.baidu.IRecorderConstant;
+import com.android.tans.recorder.service.AudioRecorder;
+import com.android.tans.recorder.service.AudioRecorder.MessageProto;
+import com.android.tans.recorder.utils.PreferenceUtils;
+
 
 import com.baidu.oauth.BaiduOAuth;
 import com.baidu.oauth.BaiduOAuth.BaiduOAuthResponse;

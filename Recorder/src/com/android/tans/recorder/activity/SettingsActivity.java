@@ -1,7 +1,5 @@
-package cn.edu.bjtu.group1024.recorder.activity;
+package com.android.tans.recorder.activity;
 
-import cn.edu.bjtu.group1024.recorder.R;
-import cn.edu.bjtu.group1024.recorder.R.xml;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.content.SharedPreferences;
@@ -9,6 +7,8 @@ import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
+
+import com.android.tans.recorder.R;
 
 public class SettingsActivity extends Activity {
 

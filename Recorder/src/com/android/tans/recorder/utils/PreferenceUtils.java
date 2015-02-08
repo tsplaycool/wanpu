@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.utils;
+package com.android.tans.recorder.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

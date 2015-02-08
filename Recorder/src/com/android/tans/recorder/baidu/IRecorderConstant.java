@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.baidu;
+package com.android.tans.recorder.baidu;
 
 public interface IRecorderConstant {
 	String API_KEY = "L6g70tBRRIXLsY0Z3HwKqlRE";

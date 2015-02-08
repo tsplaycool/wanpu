@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.service;
+package com.android.tans.recorder.service;
 
 import java.io.File;
 import java.io.IOException;

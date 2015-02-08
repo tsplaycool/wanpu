@@ -1,10 +1,10 @@
-package cn.edu.bjtu.group1024.recorder.uilib;
+package com.android.tans.recorder.uilib;
 
-import cn.edu.bjtu.group1024.recorder.R;
-import cn.edu.bjtu.group1024.recorder.R.xml;
 import android.content.Context;
 import android.preference.DialogPreference;
 import android.util.AttributeSet;
+
+import com.android.tans.recorder.R;
 
 public class NumberPickerPreference extends DialogPreference {
 	

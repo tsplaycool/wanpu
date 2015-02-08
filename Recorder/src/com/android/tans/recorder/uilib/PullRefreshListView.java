@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.uilib;
+package com.android.tans.recorder.uilib;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -24,7 +24,7 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import cn.edu.bjtu.group1024.recorder.R;
+import com.android.tans.recorder.R;
 
 public class PullRefreshListView extends ListView {
 

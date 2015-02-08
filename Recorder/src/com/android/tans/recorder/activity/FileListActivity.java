@@ -1,4 +1,4 @@
-package cn.edu.bjtu.group1024.recorder.activity;
+package com.android.tans.recorder.activity;
 
 import java.io.File;
 import java.io.IOException;
@@ -33,10 +33,11 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
-import cn.edu.bjtu.group1024.recorder.R;
-import cn.edu.bjtu.group1024.recorder.uilib.PullRefreshListView;
-import cn.edu.bjtu.group1024.recorder.uilib.PullRefreshListView.OnRefreshListener;
-import cn.edu.bjtu.group1024.recorder.utils.PreferenceUtils;
+import com.android.tans.recorder.R;
+import com.android.tans.recorder.uilib.PullRefreshListView;
+import com.android.tans.recorder.uilib.PullRefreshListView.OnRefreshListener;
+import com.android.tans.recorder.utils.PreferenceUtils;
+
 
 import com.baidu.pcs.BaiduPCSActionInfo.PCSCommonFileInfo;
 import com.baidu.pcs.BaiduPCSActionInfo.PCSFileFromToResponse;
